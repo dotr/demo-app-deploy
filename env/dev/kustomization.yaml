@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/dotr/demo-app
-  newTag: be89b6136c41669049b3906c83d2ee6d951d56d0
+  newTag: 5517934d7a22ff601fdfe230b7dab09ae30e7302
