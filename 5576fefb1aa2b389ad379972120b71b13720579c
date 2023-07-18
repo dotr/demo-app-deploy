@@ -1,1 +1,3 @@
 image: ghcr.io/dotr/demo-app:5517934d7a22ff601fdfe230b7dab09ae30e7302
+
+env: stage
