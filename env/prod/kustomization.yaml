@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/dotr/demo-app
+  newTag: 5517934d7a22ff601fdfe230b7dab09ae30e7302
